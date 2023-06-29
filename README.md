@@ -19,6 +19,11 @@ I was provided a starter code which I then refactored to make it more efficient 
 
 ![Alt text](<Assets/Horiseon Screenshot.png>)
 
+## Links
+
+- Github Repository:https://github.com/rambriz91/korok
+- Deployed Webpage:
+
 ## Credits
 
 - https://www.w3schools.com/css/css_selectors.asp
