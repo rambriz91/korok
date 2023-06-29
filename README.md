@@ -17,7 +17,7 @@ I was provided a starter code which I then refactored to make it more efficient 
 
 ## Usage
 
-![Alt text](<Assets/Horiseon Screenshot.png>)
+![Alt text](<Assets/images/Horiseon Screenshot.png>)
 
 ## Links
 
